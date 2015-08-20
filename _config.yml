@@ -3,9 +3,9 @@ title: Vita tummar
 email: tgerdin@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   En blogg om riktiga nudlar och smaskiga tillbehör
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
+baseurl: "/vitatummar-jekyll/" # the subpath of your site, e.g. /blog/
+url: "http://tger.github.io" # the base hostname & protocol for your site
+twitter_username: tobiasgerdin
 #github_username:  tger
 
 # Build settings
